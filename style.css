@@ -10,3 +10,11 @@
 section {
   padding-top: 5rem;
 }
+
+.sub-content {
+  text-decoration: underline;
+}
+
+.paragraph {
+  text-indent: 40px;
+}
